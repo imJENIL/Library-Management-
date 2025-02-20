@@ -1,4 +1,4 @@
-# Library-Management-
+# Library Management using CPP
 Library Management System (C++)
 
 A simple C++ based Library Management System that allows admins to manage students and books, and students to issue and return books.
