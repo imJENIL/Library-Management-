@@ -5,11 +5,11 @@ A simple C++ based Library Management System that allows admins to manage studen
 
 Features:
 
-Admin: Add/remove students and books, view total students and book list.
+> Admin: Add/remove students and books, view total students and book list.
 
-Student: Issue/return books and view available books.
+> Student: Issue/return books and view available books.
 
-Key Concepts: Object-Oriented Programming (OOP) and Standard Template Library (STL).
+> Key Concepts: Object-Oriented Programming (OOP) and Standard Template Library (STL).
 
 
 This project showcases basic C++ OOP principles and provides a simple library system simulation.
